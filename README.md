@@ -1,6 +1,6 @@
 # About Me
 I have finished my bachelor's in Civil Engineering at the Sharif University of Technology, the best technical university in Iran. As I pursued my education, I increasingly became interested in Transportation Engineering. I have had the opportunity to explore this field by engaging myself in projects dealing with Optimization, Traffic Safety, and Computer vision.
-![graduation](graduation.jfif "Graduation")
+![graduation](graduation.jfif "Graduation" width="200")
 
 ## Internship
 The Ministry of Roads and Urban Development supervises Iran's Roads and Transportation Information Management Center, which manages roads and highways by analyzing data collected from several sources. As a data analyst in this center, I detected malfunctioning traffic counters by developing a python code including data visualization and researched traffic and speed cameras in foreign countries and the information they provide.
