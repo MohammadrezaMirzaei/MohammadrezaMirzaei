@@ -6,7 +6,7 @@ I have finished my bachelor's in Civil Engineering at the Sharif University of T
 </p>
 
 ## Internship
-The Ministry of Roads and Urban Development supervises Iran's Roads and Transportation Information Management Center, which manages roads and highways by analyzing data collected from several sources. As a data analyst in this center, I detected malfunctioning traffic counters by developing a Python code that included data visualization. I also researched traffic and speed cameras in foreign countries and the information they provide.
+The Roads and Transportation Information Management Center manages roads and highways by analyzing data collected from several sources. As a data analyst in this center, I detected malfunctioning traffic counters by developing a Python code that included data visualization. I also researched traffic and speed cameras in foreign countries and the information they provide.
 
 <p align="center" width="100%">
   <img width="50%" src="internship.png">
