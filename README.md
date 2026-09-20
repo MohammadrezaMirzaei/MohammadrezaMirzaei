@@ -45,9 +45,9 @@ I pursued a Master’s degree in Civil Engineering at the University of Florida,
 
 
 ## ITS Traffic Engineer
-In my role at AtkinsRéalis as an ITS Traffic Engineer, I contributed to the Intelligent Transportation Systems (ITS) initiatives of the Florida Department of Transportation (FDOT) in District Two, Northeast Florida. Efforts include Connected Vehicle Deployments, Truck Parking Availability System (TPAS), Rail Crossing Detection, Drawbridge Detection, Wrong Way Vehicle Detection, Video Analytics, and other emerging technology evaluations.  
 <p align="center" width="100%">
   <img width="50%" src="AtkinsRealis.jpeg">
+  In my role at AtkinsRéalis as an ITS Traffic Engineer, I contributed to the Intelligent Transportation Systems (ITS) initiatives of the Florida Department of Transportation (FDOT) in District Two, Northeast Florida. Efforts include Connected Vehicle Deployments, Truck Parking Availability System (TPAS), Rail Crossing Detection, Drawbridge Detection, Wrong Way Vehicle Detection, Video Analytics, and other emerging technology evaluations.  
 </p>
 
 ## Ph.D.
