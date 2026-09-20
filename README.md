@@ -36,11 +36,19 @@ My programming skills in Python, data science, and artificial intelligence enric
 
 ## Master's Degree
 I pursued a Master’s degree in Civil Engineering at the University of Florida, where I also served as a Graduate Research Assistant. During graduate studies in UF's I-STREET Lab, I was actively involved in the project titled “Evaluation of Gainesville Pedestrian-Bicyclists Connected Vehicle Pilot.” My responsibilities included collaborating with technology vendors, FDOT, and the City of Gainesville, as well as conducting evaluations and writing technical reports.
+
 [Link to Final Report](https://rosap.ntl.bts.gov/view/dot/93277)
+
+<p align="center" width="100%">
+  <img width="50%" src="I-STREET.jpg">
+</p>
 
 
 ## ITS Traffic Engineer
 In my role at AtkinsRéalis as an ITS Traffic Engineer, I contributed to the Intelligent Transportation Systems (ITS) initiatives of the Florida Department of Transportation (FDOT) in District Two, Northeast Florida. Efforts include Connected Vehicle Deployments, Truck Parking Availability System (TPAS), Rail Crossing Detection, Drawbridge Detection, Wrong Way Vehicle Detection, Video Analytics, and other emerging technology evaluations.  
+<p align="center" width="100%">
+  <img width="50%" src="AtkinsRealis.jpeg">
+</p>
 
 ## Ph.D.
 I recently joined the Engineering and Computing Systems PhD program in the School of Science, Engineering, and Technology at Penn State Harrisburg, where I work as a Graduate Research Assistant focusing on traffic safety and operations, and human factors.
